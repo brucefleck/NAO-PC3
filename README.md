@@ -2,6 +2,8 @@
 
 Este proyecto contiene un script modular de Python que da vida al robot NAO con **voz**, **movimiento**, **comandos de voz interactivos** y **animaciones de actuación** como un **baile disco**, una **interpretación de saxofón** y un **solo de guitarra eléctrica**. El robot escucha la entrada del usuario y responde con una divertida rutina de actuación ramificada.
 
+Link del video: https://youtu.be/6Q7GennK_94
+
 ---
 
 ## Estructura del programa
