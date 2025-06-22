@@ -23,6 +23,8 @@ nao_project/
 
 ---
 
+![Diagrama de la arquitectura de componentes](diagrama.png)
+
 ## Flujo del programa
 
 1. **Startup**
