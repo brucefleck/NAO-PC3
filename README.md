@@ -29,7 +29,7 @@ nao_project/
 
 1. **Startup**
    - El robot se despierta y adopta la postura de `StandInit`.
-   - Dice: _"Hola, ¿qué tal? ¡A divertirse!"_
+   - Dice: _"Hello, whats up? lets have fun"_
 
 2. **Movimiento**
    - El robot camina **20 cm** hacia adelante usando `ALMotion.moveTo`.
