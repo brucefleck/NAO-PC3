@@ -6,12 +6,19 @@ Este proyecto contiene un script modular de Python que da vida al robot NAO con 
 
 ## Estructura del programa
 nao_project/
+
 ├── main.py # Script principal para controlar el flujo del programa
+
 ├── standUp.py # Contiene funciones para despertarse, ponerse de pie y descansar.
+
 ├── say.py # Contiene funciones para todas las interacciones habladas.
+
 ├── moveTo.py # Maneja caminar y bailar disco.
+
 ├── audio/
+
 │ ├── epicsax.ogg # audio de saxofón
+
 │ └── sonido-de-guitarra-electrica.wav # audio de guitarra electrica
 
 ---
